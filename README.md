@@ -8,5 +8,7 @@ Executing the written algorithm
 Executing the reverse of the written algorithm
 
 ## How to install
+Open "visual cube.exe"
 
 ## License
+Check LICENSE.md
