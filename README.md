@@ -1,7 +1,7 @@
 # Visual Cube by Berke ÖZCAN
-A 2d rubik's cube simulation. Made by Berke ÖZCAN in 31.07.2019
+A 2d virtual rubik's cube. Made by Berke ÖZCAN in 31.07.2019
 
-## Usage
+## Functions
 Moves and rotations
 
 Scramble & Solve(reset) options
@@ -10,7 +10,7 @@ Executing the written algorithm
 
 Executing the reverse of the written algorithm
 
-## How to install
+## How to open
 Open "visual cube.exe"
 
 # Enjoy!
